@@ -1,0 +1,54 @@
+{
+  "id": 504780297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"AU",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        85681497,
+        102191583,
+        404540121,
+        85632793,
+        101938997,
+        102049585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"12708016"
+    },
+    "wof:country":"AU",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049585,
+            "localadmin_id":404540121,
+            "locality_id":101938997,
+            "postalcode_id":504780297,
+            "region_id":85681497
+        }
+    ],
+    "wof:id":504780297,
+    "wof:lastmodified":1459991649,
+    "wof:name":"3934",
+    "wof:parent_id":"101938997",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}

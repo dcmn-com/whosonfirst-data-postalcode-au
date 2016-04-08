@@ -1,0 +1,54 @@
+{
+  "id": 504782395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"AU",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        85681439,
+        102191583,
+        404548207,
+        85632793,
+        101937731,
+        102049377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"12708957"
+    },
+    "wof:country":"AU",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049377,
+            "localadmin_id":404548207,
+            "locality_id":101937731,
+            "postalcode_id":504782395,
+            "region_id":85681439
+        }
+    ],
+    "wof:id":504782395,
+    "wof:lastmodified":1459991722,
+    "wof:name":"6168",
+    "wof:parent_id":"101937731",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
