@@ -2,37 +2,58 @@
   "id": 504782439,
   "type": "Feature",
   "properties": {
+    "clustr:alpha":1.0,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.056411,
+    "geom:area_square_m":585938468.823786,
+    "geom:bbox":"115.645835876,-32.9379386902,116.077049255,-32.7651062012",
+    "geom:latitude":-32.854667,
+    "geom:longitude":115.852405,
     "gp:parent_id":"55864417",
     "iso:country":"AU",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_clustr":1,
+    "src:geom":"oa",
+    "wof:belongsto":[
+        85681439,
+        102191583,
+        404548489,
+        85632793,
+        102048647
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12708971"
     },
     "wof:country":"AU",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fca17a8d1a7a04c2f4e81adc717e7515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102048647,
+            "localadmin_id":404548489,
+            "postalcode_id":504782439,
+            "region_id":85681439
+        }
+    ],
     "wof:id":504782439,
-    "wof:lastmodified":1459991728,
+    "wof:lastmodified":1469468971,
     "wof:name":"6215",
-    "wof:parent_id":-1,
+    "wof:parent_id":404548489,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    115.64583587646484,
+    -32.93793869018555,
+    116.0770492553711,
+    -32.765106201171875
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[115.68056488037109,-32.78347015380859],[115.69409942626953,-32.78313064575195],[115.80364990234375,-32.79127502441406],[115.98194122314453,-32.77958679199219],[116.07355499267578,-32.76510620117188],[116.07704925537109,-32.76641845703125],[115.99606323242188,-32.93776702880859],[115.92535400390625,-32.93793869018555],[115.90730285644531,-32.93680191040039],[115.84439086914062,-32.93363189697266],[115.76981353759766,-32.92826080322266],[115.68968963623047,-32.92849349975586],[115.65104675292969,-32.8822135925293],[115.64849090576172,-32.87710952758789],[115.64583587646484,-32.81979370117188],[115.66991424560547,-32.78417205810547],[115.68056488037109,-32.78347015380859]]],"type":"Polygon"}
 }

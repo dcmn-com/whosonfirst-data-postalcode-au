@@ -2,37 +2,58 @@
   "id": 504780005,
   "type": "Feature",
   "properties": {
+    "clustr:alpha":1.0,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.001715,
+    "geom:area_square_m":16982390.560445,
+    "geom:bbox":"146.967498779,-36.8311157227,147.002655029,-36.7522277832",
+    "geom:latitude":-36.791425,
+    "geom:longitude":146.983629,
     "gp:parent_id":"55864015",
     "iso:country":"AU",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_clustr":1,
+    "src:geom":"oa",
+    "wof:belongsto":[
+        85681497,
+        102191583,
+        404539945,
+        85632793,
+        102049467
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12707885"
     },
     "wof:country":"AU",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"374744da636a9cdc1e6ff827ca0ff369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049467,
+            "localadmin_id":404539945,
+            "postalcode_id":504780005,
+            "region_id":85681497
+        }
+    ],
     "wof:id":504780005,
-    "wof:lastmodified":1459991640,
+    "wof:lastmodified":1469468959,
     "wof:name":"3744",
-    "wof:parent_id":-1,
+    "wof:parent_id":404539945,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    146.96749877929688,
+    -36.83111572265625,
+    147.00265502929688,
+    -36.752227783203125
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[146.98046875,-36.83111572265625],[146.973388671875,-36.82093811035156],[146.96865844726562,-36.80635833740234],[146.96749877929688,-36.78365707397461],[146.978759765625,-36.75876235961914],[146.98417663574219,-36.75222778320312],[146.99110412597656,-36.75753402709961],[147.00100708007812,-36.79104614257812],[147.00265502929688,-36.79813003540039],[146.98175048828125,-36.82976531982422],[146.98046875,-36.83111572265625]]],"type":"Polygon"}
 }

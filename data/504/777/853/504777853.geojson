@@ -2,37 +2,43 @@
   "id": 504777853,
   "type": "Feature",
   "properties": {
+    "clustr:alpha":1.0,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.00836,
+    "geom:area_square_m":86351133.265602,
+    "geom:bbox":"151.396484375,-33.4021568298,151.532287598,-33.3012695312",
+    "geom:latitude":-33.350561,
+    "geom:longitude":151.459689,
     "gp:parent_id":"55864189",
     "iso:country":"AU",
-    "src:geom":"geoplanet",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_clustr":1,
+    "src:geom":"oa",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12706884"
     },
     "wof:country":"AU",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"6d44a647ae41cd8fd2bc19129475cc1b",
     "wof:hierarchy":[],
     "wof:id":504777853,
-    "wof:lastmodified":1459991555,
+    "wof:lastmodified":1469468947,
     "wof:name":"2261",
     "wof:parent_id":-1,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    151.396484375,
+    -33.402156829833984,
+    151.53228759765625,
+    -33.30126953125
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[151.49839782714844,-33.364013671875],[151.48025512695312,-33.39784240722656],[151.4755859375,-33.40055465698242],[151.47499084472656,-33.40069580078125],[151.45982360839844,-33.40215682983398],[151.396484375,-33.37900543212891],[151.40739440917969,-33.32716369628906],[151.41647338867188,-33.32200622558594],[151.43482971191406,-33.31800079345703],[151.53166198730469,-33.30126953125],[151.53228759765625,-33.30670166015625],[151.49839782714844,-33.364013671875]]],"type":"Polygon"}
 }

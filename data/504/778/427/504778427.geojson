@@ -2,37 +2,58 @@
   "id": 504778427,
   "type": "Feature",
   "properties": {
+    "clustr:alpha":1.0,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.029046,
+    "geom:area_square_m":290885680.305717,
+    "geom:bbox":"149.083709717,-36.0300788879,149.250915527,-35.7875823975",
+    "geom:latitude":-35.914945,
+    "geom:longitude":149.162535,
     "gp:parent_id":"55863839",
     "iso:country":"AU",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_clustr":1,
+    "src:geom":"oa",
+    "wof:belongsto":[
+        85681545,
+        102191583,
+        404222169,
+        85632793,
+        102048491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12707150"
     },
     "wof:country":"AU",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61c91ebc28dc4c9a2367af4a1f381cbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102048491,
+            "localadmin_id":404222169,
+            "postalcode_id":504778427,
+            "region_id":85681545
+        }
+    ],
     "wof:id":504778427,
-    "wof:lastmodified":1459991570,
+    "wof:lastmodified":1469468950,
     "wof:name":"2626",
-    "wof:parent_id":-1,
+    "wof:parent_id":404222169,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    149.08370971679688,
+    -36.03007888793945,
+    149.25091552734375,
+    -35.78758239746094
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[149.21562194824219,-35.84405899047852],[149.23188781738281,-35.86343383789062],[149.25091552734375,-36.03007888793945],[149.08406066894531,-35.98591613769531],[149.08370971679688,-35.86358642578125],[149.11422729492188,-35.78758239746094],[149.20069885253906,-35.82887268066406],[149.21562194824219,-35.84405899047852]]],"type":"Polygon"}
 }

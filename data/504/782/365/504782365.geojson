@@ -2,53 +2,59 @@
   "id": 504782365,
   "type": "Feature",
   "properties": {
+    "clustr:alpha":1.0,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.000563,
+    "geom:area_square_m":5903143.704715,
+    "geom:bbox":"115.808799744,-32.0465393066,115.844612122,-32.0273284912",
+    "geom:latitude":-32.037904,
+    "geom:longitude":115.825936,
     "iso:country":"AU",
-    "src:geom":"geoplanet",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_clustr":1,
+    "src:geom":"oa",
     "wof:belongsto":[
         85681439,
         102191583,
-        404548115,
+        404546861,
         85632793,
-        101937679,
-        102048915
+        101936923,
+        102048851
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12708943"
     },
     "wof:country":"AU",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"3fff6ebe909e75f011e03d60564d50b4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85632793,
-            "county_id":102048915,
-            "localadmin_id":404548115,
-            "locality_id":101937679,
+            "county_id":102048851,
+            "localadmin_id":404546861,
+            "locality_id":101936923,
             "postalcode_id":504782365,
             "region_id":85681439
         }
     ],
     "wof:id":504782365,
-    "wof:lastmodified":1459991721,
+    "wof:lastmodified":1469468971,
     "wof:name":"6154",
-    "wof:parent_id":"101937679",
+    "wof:parent_id":101936923,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    115.80879974365234,
+    -32.046539306640625,
+    115.84461212158203,
+    -32.02732849121094
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[115.80879974365234,-32.03683471679688],[115.80879974365234,-32.03248977661133],[115.82076263427734,-32.02732849121094],[115.84461212158203,-32.03303909301758],[115.84461212158203,-32.03319931030273],[115.84455108642578,-32.03716278076172],[115.84432220458984,-32.04251480102539],[115.84427642822266,-32.04262924194336],[115.84407806396484,-32.04293823242188],[115.84259033203125,-32.04457855224609],[115.83985137939453,-32.04573059082031],[115.81575775146484,-32.04631423950195],[115.80943298339844,-32.04653930664062],[115.80885314941406,-32.04232025146484],[115.80879974365234,-32.03683471679688]]],"type":"Polygon"}
 }

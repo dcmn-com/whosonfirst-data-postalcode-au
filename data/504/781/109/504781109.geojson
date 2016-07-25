@@ -2,37 +2,54 @@
   "id": 504781109,
   "type": "Feature",
   "properties": {
+    "clustr:alpha":1.0,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.065861,
+    "geom:area_square_m":743003397.706997,
+    "geom:bbox":"151.393112183,-24.3302631378,151.689559937,-23.9992141724",
+    "geom:latitude":-24.167241,
+    "geom:longitude":151.525881,
     "gp:parent_id":"56072965",
     "iso:country":"AU",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_clustr":1,
+    "src:geom":"oa",
+    "wof:belongsto":[
+        102191583,
+        404544491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12708381"
     },
     "wof:country":"AU",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d81476b954452e6544b71d186a0f96b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "localadmin_id":404544491,
+            "postalcode_id":504781109,
+            "region_id":-1
+        }
+    ],
     "wof:id":504781109,
-    "wof:lastmodified":1459991675,
+    "wof:lastmodified":1469468964,
     "wof:name":"4678",
-    "wof:parent_id":-1,
+    "wof:parent_id":404544491,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    151.3931121826172,
+    -24.330263137817383,
+    151.68955993652344,
+    -23.99921417236328
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[151.65167236328125,-24.07477951049805],[151.65269470214844,-24.07624816894531],[151.68955993652344,-24.13887023925781],[151.58235168457031,-24.30376625061035],[151.51759338378906,-24.33026313781738],[151.45008850097656,-24.32362365722656],[151.41268920898438,-24.25927925109863],[151.39311218261719,-24.21076202392578],[151.39356994628906,-24.19539833068848],[151.4456787109375,-24.00315856933594],[151.46063232421875,-23.99921417236328],[151.48753356933594,-24.00528907775879],[151.65057373046875,-24.07442092895508],[151.65167236328125,-24.07477951049805]]],"type":"Polygon"}
 }

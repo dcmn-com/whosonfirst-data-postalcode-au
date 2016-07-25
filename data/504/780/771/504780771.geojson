@@ -2,37 +2,58 @@
   "id": 504780771,
   "type": "Feature",
   "properties": {
+    "clustr:alpha":1.0,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.0031,
+    "geom:area_square_m":33755316.790779,
+    "geom:bbox":"152.212387085,-28.3350009918,152.267318726,-28.2608833313",
+    "geom:latitude":-28.299475,
+    "geom:longitude":152.242004,
     "gp:parent_id":"56072992",
     "iso:country":"AU",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_clustr":1,
+    "src:geom":"oa",
+    "wof:belongsto":[
+        85681463,
+        102191583,
+        404544279,
+        85632793,
+        102048963
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12708231"
     },
     "wof:country":"AU",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e340368014ea21476416cf07de5e3cdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102048963,
+            "localadmin_id":404544279,
+            "postalcode_id":504780771,
+            "region_id":85681463
+        }
+    ],
     "wof:id":504780771,
-    "wof:lastmodified":1459991665,
+    "wof:lastmodified":1469468962,
     "wof:name":"4372",
-    "wof:parent_id":-1,
+    "wof:parent_id":404544279,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    152.21238708496094,
+    -28.33500099182129,
+    152.26731872558594,
+    -28.260883331298828
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[152.21238708496094,-28.29219055175781],[152.21394348144531,-28.28777885437012],[152.2158203125,-28.28446769714355],[152.24754333496094,-28.26088333129883],[152.26588439941406,-28.26817321777344],[152.26731872558594,-28.32345390319824],[152.23918151855469,-28.33500099182129],[152.23008728027344,-28.33252143859863],[152.21731567382812,-28.3245792388916],[152.21238708496094,-28.29219055175781]]],"type":"Polygon"}
 }

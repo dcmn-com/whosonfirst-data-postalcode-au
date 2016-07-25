@@ -2,37 +2,60 @@
   "id": 504781033,
   "type": "Feature",
   "properties": {
+    "clustr:alpha":1.0,
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:area":0.000144,
+    "geom:area_square_m":1588646.121378,
+    "geom:bbox":"153.094192505,-26.6759719849,153.114105225,-26.6637020111",
+    "geom:latitude":-26.670844,
+    "geom:longitude":153.103804,
     "gp:parent_id":"56072960",
     "iso:country":"AU",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_clustr":1,
+    "src:geom":"oa",
+    "wof:belongsto":[
+        85681463,
+        102191583,
+        404540971,
+        85632793,
+        101933783,
+        102049303
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12708347"
     },
     "wof:country":"AU",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16126ede0552c71f2516dbf8d1ab1abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049303,
+            "localadmin_id":404540971,
+            "locality_id":101933783,
+            "postalcode_id":504781033,
+            "region_id":85681463
+        }
+    ],
     "wof:id":504781033,
-    "wof:lastmodified":1459991673,
+    "wof:lastmodified":1469468964,
     "wof:name":"4572",
-    "wof:parent_id":-1,
+    "wof:parent_id":101933783,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-au",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    153.0941925048828,
+    -26.67597198486328,
+    153.11410522460938,
+    -26.6637020111084
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[153.09684753417969,-26.67408561706543],[153.09567260742188,-26.67292404174805],[153.09437561035156,-26.67136764526367],[153.09419250488281,-26.67102241516113],[153.09535217285156,-26.66936683654785],[153.09617614746094,-26.66841125488281],[153.10369873046875,-26.66373825073242],[153.10469055175781,-26.6637020111084],[153.11289978027344,-26.67308616638184],[153.11381530761719,-26.67510795593262],[153.11410522460938,-26.67576217651367],[153.11384582519531,-26.67593193054199],[153.11332702636719,-26.67596817016602],[153.11294555664062,-26.67597198486328],[153.11216735839844,-26.67592620849609],[153.09768676757812,-26.67472839355469],[153.09684753417969,-26.67408561706543]]],"type":"Polygon"}
 }
