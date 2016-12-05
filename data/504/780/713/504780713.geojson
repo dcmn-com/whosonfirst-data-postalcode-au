@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035416,
-    "geom:area_square_m":625644996.553544,
+    "geom:area_square_m":389765579.593135,
     "geom:bbox":"152.13403552,-27.217285996,152.53569504,-27.0098340075",
     "geom:latitude":-27.122428,
     "geom:longitude":152.322502,
@@ -20,7 +20,7 @@
     "wof:belongsto":[
         85681463,
         102191583,
-        404544431,
+        404543869,
         85632793,
         102049287
     ],
@@ -29,21 +29,21 @@
         "gp:id":"12708209"
     },
     "wof:country":"AU",
-    "wof:geomhash":"c146643585e073e9b7087826a42fdf95",
+    "wof:geomhash":"e19288a04357e84df5a2f28860b71558",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85632793,
             "county_id":102049287,
-            "localadmin_id":404544431,
+            "localadmin_id":404543869,
             "postalcode_id":504780713,
             "region_id":85681463
         }
     ],
     "wof:id":504780713,
-    "wof:lastmodified":1477435480,
+    "wof:lastmodified":1480902804,
     "wof:name":"4313",
-    "wof:parent_id":85632793,
+    "wof:parent_id":404543869,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-au",
     "wof:superseded_by":[],

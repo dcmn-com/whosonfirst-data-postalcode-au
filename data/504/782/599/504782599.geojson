@@ -28,7 +28,7 @@
         "gp:id":"12709044"
     },
     "wof:country":"AU",
-    "wof:geomhash":"ad9e5b566d0ca8e99459ebb44ce36391",
+    "wof:geomhash":"38ef428c24248fe4d837ada3ab59b3b9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -40,7 +40,7 @@
         }
     ],
     "wof:id":504782599,
-    "wof:lastmodified":1469468972,
+    "wof:lastmodified":1480923109,
     "wof:name":"6351",
     "wof:parent_id":404547613,
     "wof:placetype":"postalcode",
@@ -51,7 +51,7 @@
 },
   "bbox": [
     117.8471908569336,
-    -33.326438903808594,
+    -33.32643890380859,
     118.05766296386719,
     -33.07322311401367
 ],

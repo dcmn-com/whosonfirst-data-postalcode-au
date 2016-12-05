@@ -29,7 +29,7 @@
         "gp:id":"12708601"
     },
     "wof:country":"AU",
-    "wof:geomhash":"592962b569dddeeff4ba958d052d593d",
+    "wof:geomhash":"eda5a3c323f6a42b7ad6e69e3765f121",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -42,7 +42,7 @@
         }
     ],
     "wof:id":504781619,
-    "wof:lastmodified":1469468967,
+    "wof:lastmodified":1480923276,
     "wof:name":"5150",
     "wof:parent_id":101936311,
     "wof:placetype":"postalcode",

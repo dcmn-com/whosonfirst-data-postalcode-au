@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011134,
-    "geom:area_square_m":71596436.891321,
+    "geom:area_square_m":107598701.4446,
     "geom:bbox":"146.02466016,-38.662567998,146.213839008,-38.5465949945",
     "geom:latitude":-38.599502,
     "geom:longitude":146.121206,
@@ -29,7 +29,7 @@
         "gp:id":"12708033"
     },
     "wof:country":"AU",
-    "wof:geomhash":"e127621b3aba4b5996e56967fbf9a90a",
+    "wof:geomhash":"c5ea888ba3ca9390577143f2d13c635f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -41,9 +41,9 @@
         }
     ],
     "wof:id":504780335,
-    "wof:lastmodified":1477435471,
+    "wof:lastmodified":1480933217,
     "wof:name":"3957",
-    "wof:parent_id":85632793,
+    "wof:parent_id":404540313,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-au",
     "wof:superseded_by":[],

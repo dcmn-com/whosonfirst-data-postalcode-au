@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057935,
-    "geom:area_square_m":887366603.228752,
+    "geom:area_square_m":598653553.957019,
     "geom:bbox":"151.08418512,-33.5153970065,151.447429696,-33.1099599975",
     "geom:latitude":-33.314841,
     "geom:longitude":151.218226,
@@ -20,7 +20,7 @@
     "wof:belongsto":[
         85681545,
         102191583,
-        404222561,
+        404224699,
         85632793,
         102048513
     ],
@@ -29,21 +29,21 @@
         "gp:id":"12706876"
     },
     "wof:country":"AU",
-    "wof:geomhash":"52972a9dfb800e8028b8474506160f7a",
+    "wof:geomhash":"75dc6295a562bb5263bb77617d7b204d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85632793,
             "county_id":102048513,
-            "localadmin_id":404222561,
+            "localadmin_id":404224699,
             "postalcode_id":504777837,
             "region_id":85681545
         }
     ],
     "wof:id":504777837,
-    "wof:lastmodified":1477435363,
+    "wof:lastmodified":1480931892,
     "wof:name":"2250",
-    "wof:parent_id":85632793,
+    "wof:parent_id":404224699,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-au",
     "wof:superseded_by":[],
@@ -52,7 +52,7 @@
 },
   "bbox": [
     151.08418512,
-    -33.515397006499995,
+    -33.5153970065,
     151.447429696,
     -33.1099599975
 ],

@@ -28,7 +28,7 @@
         "gp:id":"12707857"
     },
     "wof:country":"AU",
-    "wof:geomhash":"0b7c8f856d850d02815a06d7b6f07edb",
+    "wof:geomhash":"9010ba0f07a747ddffa96d91a128d3b5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -40,7 +40,7 @@
         }
     ],
     "wof:id":504779945,
-    "wof:lastmodified":1469468958,
+    "wof:lastmodified":1480926488,
     "wof:name":"3708",
     "wof:parent_id":404538295,
     "wof:placetype":"postalcode",

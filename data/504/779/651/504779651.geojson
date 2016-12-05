@@ -28,7 +28,7 @@
         "gp:id":"12707713"
     },
     "wof:country":"AU",
-    "wof:geomhash":"1b8e22489f8429ea962e848aec5f998f",
+    "wof:geomhash":"737b94cbfc21e9e9f61e337c7c9a0d02",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -40,7 +40,7 @@
         }
     ],
     "wof:id":504779651,
-    "wof:lastmodified":1469468957,
+    "wof:lastmodified":1480931844,
     "wof:name":"3489",
     "wof:parent_id":404539889,
     "wof:placetype":"postalcode",

@@ -28,7 +28,7 @@
         "gp:id":"12707571"
     },
     "wof:country":"AU",
-    "wof:geomhash":"086e6e15172e25c62787699636a54de0",
+    "wof:geomhash":"313c558d124ab2bc390fd4e5ed4e3292",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -40,7 +40,7 @@
         }
     ],
     "wof:id":504779343,
-    "wof:lastmodified":1469468955,
+    "wof:lastmodified":1480899547,
     "wof:name":"3271",
     "wof:parent_id":404540855,
     "wof:placetype":"postalcode",

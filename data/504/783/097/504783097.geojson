@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002582,
-    "geom:area_square_m":14225044.225673,
+    "geom:area_square_m":23304907.716061,
     "geom:bbox":"147.179846688,-43.1488799915,147.272087616,-43.1030511995",
     "geom:latitude":-43.124106,
     "geom:longitude":147.223677,
@@ -18,30 +18,32 @@
     "mz:is_approximate":1,
     "src:geom":"ausstat",
     "wof:belongsto":[
+        85681583,
         102191583,
         404549061,
         85632793,
-        85681583
+        102048889
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12709404"
     },
     "wof:country":"AU",
-    "wof:geomhash":"acd13499e3b48f0f2db79921f1440613",
+    "wof:geomhash":"690759414f3fadb548a9f89b985405ce",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85632793,
+            "county_id":102048889,
             "localadmin_id":404549061,
             "postalcode_id":504783097,
             "region_id":85681583
         }
     ],
     "wof:id":504783097,
-    "wof:lastmodified":1477435539,
+    "wof:lastmodified":1480935663,
     "wof:name":"7155",
-    "wof:parent_id":85632793,
+    "wof:parent_id":404549061,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-au",
     "wof:superseded_by":[],

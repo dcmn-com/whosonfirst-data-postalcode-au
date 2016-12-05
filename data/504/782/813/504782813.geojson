@@ -28,7 +28,7 @@
         "gp:id":"12709149"
     },
     "wof:country":"AU",
-    "wof:geomhash":"d6f97cb35043053e86bc143b6512292a",
+    "wof:geomhash":"f7f4c15d7b49abf434afa269f947edcb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -40,7 +40,7 @@
         }
     ],
     "wof:id":504782813,
-    "wof:lastmodified":1469468973,
+    "wof:lastmodified":1480924494,
     "wof:name":"6504",
     "wof:parent_id":404548475,
     "wof:placetype":"postalcode",
@@ -51,7 +51,7 @@
 },
   "bbox": [
     116.00743103027344,
-    -31.361230850219727,
+    -31.36123085021973,
     116.11196899414062,
     -31.23410415649414
 ],

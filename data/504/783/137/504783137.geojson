@@ -17,28 +17,30 @@
     "mz:is_clustr":1,
     "src:geom":"oa",
     "wof:belongsto":[
+        85681583,
         102191583,
         404549387,
         85632793,
-        85681583
+        102048661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12709421"
     },
     "wof:country":"AU",
-    "wof:geomhash":"350da8156d06032c3a3799ae7f8d4319",
+    "wof:geomhash":"1532c032eefc71ba48414284f83557e7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85632793,
+            "county_id":102048661,
             "localadmin_id":404549387,
             "postalcode_id":504783137,
             "region_id":85681583
         }
     ],
     "wof:id":504783137,
-    "wof:lastmodified":1469468975,
+    "wof:lastmodified":1480920929,
     "wof:name":"7185",
     "wof:parent_id":404549387,
     "wof:placetype":"postalcode",
@@ -49,7 +51,7 @@
 },
   "bbox": [
     147.73081970214844,
-    -43.079044342041016,
+    -43.07904434204102,
     147.79248046875,
     -43.03572082519531
 ],

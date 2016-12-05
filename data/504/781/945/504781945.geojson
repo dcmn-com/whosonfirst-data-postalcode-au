@@ -28,7 +28,7 @@
         "gp:id":"12708747"
     },
     "wof:country":"AU",
-    "wof:geomhash":"68939a3b4d45ca0b94eb8dc60b1c4141",
+    "wof:geomhash":"346a655ad540d5eef83697c3fd4ca698",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -40,7 +40,7 @@
         }
     ],
     "wof:id":504781945,
-    "wof:lastmodified":1469468968,
+    "wof:lastmodified":1480923098,
     "wof:name":"5455",
     "wof:parent_id":404545505,
     "wof:placetype":"postalcode",

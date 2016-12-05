@@ -28,7 +28,7 @@
         "gp:id":"12709139"
     },
     "wof:country":"AU",
-    "wof:geomhash":"09c62586274c6a6f63d209510f10535f",
+    "wof:geomhash":"49987f2fdbec9da163f50632f9dc5b2f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -40,7 +40,7 @@
         }
     ],
     "wof:id":504782789,
-    "wof:lastmodified":1469468973,
+    "wof:lastmodified":1480891676,
     "wof:name":"6480",
     "wof:parent_id":404546941,
     "wof:placetype":"postalcode",
@@ -51,7 +51,7 @@
 },
   "bbox": [
     118.10579681396484,
-    -31.353191375732422,
+    -31.35319137573242,
     118.36487579345703,
     -31.26511001586914
 ],

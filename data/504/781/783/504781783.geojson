@@ -28,7 +28,7 @@
         "gp:id":"12708674"
     },
     "wof:country":"AU",
-    "wof:geomhash":"657d8d652b98661a53e85976ad0784e0",
+    "wof:geomhash":"836297c1965595b43faf649600b96fe5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -40,7 +40,7 @@
         }
     ],
     "wof:id":504781783,
-    "wof:lastmodified":1469468968,
+    "wof:lastmodified":1480891668,
     "wof:name":"5273",
     "wof:parent_id":404545697,
     "wof:placetype":"postalcode",
@@ -51,7 +51,7 @@
 },
   "bbox": [
     140.08465576171875,
-    -37.033531188964844,
+    -37.03353118896484,
     140.2620391845703,
     -36.83845901489258
 ],

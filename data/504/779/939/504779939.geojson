@@ -28,7 +28,7 @@
         "gp:id":"12707854"
     },
     "wof:country":"AU",
-    "wof:geomhash":"08f5a08d50a3bf4ebfd54c51dd47a9fe",
+    "wof:geomhash":"fddd851b3d7adc079b427f56774ce66d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -40,7 +40,7 @@
         }
     ],
     "wof:id":504779939,
-    "wof:lastmodified":1469468958,
+    "wof:lastmodified":1480926487,
     "wof:name":"3704",
     "wof:parent_id":404538295,
     "wof:placetype":"postalcode",

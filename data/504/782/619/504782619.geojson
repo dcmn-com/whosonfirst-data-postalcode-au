@@ -28,7 +28,7 @@
         "gp:id":"12709053"
     },
     "wof:country":"AU",
-    "wof:geomhash":"90ce94ba9131e00be8d5ed71f71c8bd9",
+    "wof:geomhash":"b794371a2c3963914fe7b113ec162990",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -40,7 +40,7 @@
         }
     ],
     "wof:id":504782619,
-    "wof:lastmodified":1469468972,
+    "wof:lastmodified":1480933330,
     "wof:name":"6363",
     "wof:parent_id":404547619,
     "wof:placetype":"postalcode",

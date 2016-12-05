@@ -28,7 +28,7 @@
         "gp:id":"12706999"
     },
     "wof:country":"AU",
-    "wof:geomhash":"1fcbfce4391f309c61ce8b2300a4a2db",
+    "wof:geomhash":"3a76b8f46c68565d0204d62020bd5aa1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -40,7 +40,7 @@
         }
     ],
     "wof:id":504778099,
-    "wof:lastmodified":1469468948,
+    "wof:lastmodified":1480881287,
     "wof:name":"2411",
     "wof:parent_id":404225389,
     "wof:placetype":"postalcode",

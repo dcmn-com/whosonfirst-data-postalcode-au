@@ -28,7 +28,7 @@
         "gp:id":"12708809"
     },
     "wof:country":"AU",
-    "wof:geomhash":"3b0ec1720718920ef6a54b3bb2c378fb",
+    "wof:geomhash":"f96a83d634da2a7457c6961ac1c5fb9e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -40,7 +40,7 @@
         }
     ],
     "wof:id":504782085,
-    "wof:lastmodified":1469468969,
+    "wof:lastmodified":1480931851,
     "wof:name":"5651",
     "wof:parent_id":404546529,
     "wof:placetype":"postalcode",
